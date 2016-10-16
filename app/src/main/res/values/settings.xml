@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    //default bluetooth device
+     <string name="onChar">n</string>
+     <string name="offChar">f</string>
+
+
+
+
+</resources>
